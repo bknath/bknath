@@ -13,6 +13,7 @@ Currently, I’m strengthening my skills in **cloud deployment (AWS)** and **sys
 * ⚡ Build responsive and performant frontend applications using **React + Tailwind + SCSS**
 * 🔧 Develop REST APIs using **FastAPI with async architecture**
 * 🗄️ Work with databases using **SQLAlchemy ORM**
+* 🤖 Integrate **AI features and OCR capabilities** into real-world applications
 * 🚀 Learn and implement **cloud deployment (AWS, CI/CD, Docker, Kubernetes basics)**
 * 🧠 Focus on writing clean, maintainable, and scalable code
 
@@ -32,6 +33,11 @@ Currently, I’m strengthening my skills in **cloud deployment (AWS)** and **sys
 * Python
 * SQLAlchemy
 
+**AI / OCR:**
+
+* OCR-based data extraction
+* AI-powered processing workflows
+
 **Tools & DevOps:**
 
 * Git & GitHub
@@ -45,21 +51,23 @@ Currently, I’m strengthening my skills in **cloud deployment (AWS)** and **sys
 
 ### 🧠 Assister (Completed ✅)
 
-A smart productivity and utility-based web application designed to simplify everyday workflows.
+A smart productivity and utility-based web application designed to simplify everyday workflows with **AI and OCR capabilities**.
 
 **Key Features:**
 
 * 🔹 Modular FastAPI backend with clean architecture
 * 🔹 RESTful API design with async support
+* 🔹 OCR-based data extraction from images/documents
+* 🔹 AI-driven processing for intelligent data handling
 * 🔹 Efficient database handling using SQLAlchemy
 * 🔹 Form handling and API integration
-* 🔹 Scalable backend structure suitable for production-level applications
 
 **Highlights:**
 
-* Designed with **performance and scalability in mind**
-* Implemented **structured API layers (routes, schemas, CRUD)**
-* Ready for **deployment and real-world usage**
+* 🤖 Integrated **AI + OCR pipeline** for real-world automation use cases
+* ⚡ Designed for **performance and scalability**
+* 🧱 Structured backend (**routes, schemas, CRUD layers**)
+* 🚀 Built with a **production-ready mindset**
 
 📦 *Status:* Completed and ready for GitHub upload
 
@@ -91,21 +99,21 @@ A collaborative drawing and diagramming tool inspired by Excalidraw.
 
 * 🚀 Deploying full-stack applications on **AWS**
 * ⚙️ Improving backend scalability and performance
-* 📦 Building production-grade projects for portfolio
+* 🤖 Exploring more **AI integrations in web apps**
 
 ---
 
 ## 📫 Connect With Me
 
 * 📧 Email: [bishalkumarnath8@gmail.com](mailto:bishalkumarnath8@gmail.com)
-* 🌐 Portfolio: https://bknportfolio.netlify.app/
+* 🌐 Portfolio: (Add your portfolio link here)
 * 💻 GitHub: https://github.com/bknath
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning complex problems into simple, scalable solutions — and I’m always exploring ways to improve performance and architecture.
+I enjoy turning complex problems into simple, scalable solutions — and integrating AI to make applications smarter.
 
 ---
 
