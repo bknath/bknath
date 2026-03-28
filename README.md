@@ -89,7 +89,7 @@ A collaborative drawing and diagramming tool inspired by Excalidraw.
 
 * React + Canvas-based rendering
 * Component-driven architecture
-* Performance optimization for drawing interactions
+* Performance optimisation for drawing interactions
 
 📦 *Status:* Actively developing
 
@@ -106,7 +106,7 @@ A collaborative drawing and diagramming tool inspired by Excalidraw.
 ## 📫 Connect With Me
 
 * 📧 Email: [bishalkumarnath8@gmail.com](mailto:bishalkumarnath8@gmail.com)
-* 🌐 Portfolio: (Add your portfolio link here)
+* 🌐 Portfolio: https://bknportfolio.netlify.app/
 * 💻 GitHub: https://github.com/bknath
 
 ---
